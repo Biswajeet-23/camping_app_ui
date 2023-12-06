@@ -115,7 +115,7 @@ class _HomePageState extends State<HomePage> {
                           style: appTitle,
                         ),
                         SizedBox(
-                          height: 20,
+                          height: 15,
                         ),
                         SingleChildScrollView(
                           scrollDirection: Axis.horizontal,
